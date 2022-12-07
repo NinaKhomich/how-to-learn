@@ -3,4 +3,6 @@
   margin-bottom: -50px;
   display: flex;
   column-gap: 20px;
+  list-style: none;
+  padding: 0;
 }

@@ -4,7 +4,7 @@
   text-decoration: none;
   color: #2f80ed;
   letter-spacing: -0.2px; /*чтобы не переносилась стрелка на 1100px */
-  transition: 0.3s;
+  transition: opacity 0.3s;
 }
 
 .khan__buy-link:hover {
