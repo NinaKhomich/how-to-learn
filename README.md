@@ -10,3 +10,6 @@
 * фреймами,
 * файловой структурой по правилам Nested БЭМ.
 
+## Ссылка на GitHub Pages
+
+https://ninakhomich.github.io/how-to-learn/
